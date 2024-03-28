@@ -1,1 +1,1 @@
-# vegist-a8l2-server
+- Develop this server with express mongoose etc to run local machine first clone this repo and open with vs code and run command npm i and add env variable and start this server with command nodemon index.js
